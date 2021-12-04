@@ -13,4 +13,6 @@ chicken!
 - A chicken taste like great fried
 - A cow live a few years 
 - A chicken a few days.
-- Chicken make eggs.
+- Cow gives milk
+- Chicken lay eggs.
+- 
